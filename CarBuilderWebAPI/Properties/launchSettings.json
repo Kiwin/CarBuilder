@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "InventoryWebAPI": {
+    "CarBuilderWebAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
